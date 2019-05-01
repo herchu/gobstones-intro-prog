@@ -1,0 +1,11 @@
+[
+  { "name": "Ejercitación", "repo": "herchu/gobstones-intro-prog"
+  , "exercises": 
+    [  
+      { "id": "0.", "name": "El alien toca botón"
+      , "path": "Proyectos/Ejercitacion/0.El alien toca botón"
+      }
+    ]
+  }
+
+]
